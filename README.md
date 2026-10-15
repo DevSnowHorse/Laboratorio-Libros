@@ -2,7 +2,7 @@
 
 Aplicación web para administrar un catálogo de libros. Permite crear, consultar, actualizar, eliminar y buscar libros por nombre.
 
-- **Estudiante:** Daniel Salgado Mazo//Juan David Castro // Duvan Pinilla
+- **Estudiantes:** Daniel Salgado Mazo//Juan David Castro // Duvan Pinilla
 - **Docente:** Diego Botia
 - **Institución:** Tecnológico de Antioquia, 2026
 
